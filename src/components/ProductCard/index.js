@@ -2,6 +2,8 @@ import React, { PureComponent } from "react";
 import PropTypes from "prop-types";
 import Draggable from 'react-draggable';
 
+import LikeSvg from '../../assets/like.svg';
+
 import './style.css';
 
 class Card extends PureComponent {
@@ -68,9 +70,11 @@ class Card extends PureComponent {
             </div>
             <div className="card-buttons">
               <button className="danger" onClick={this.dislike}>
+                <img src={LikeSvg} alt="Dislike" className="dislike" />
                 Dislike
               </button>
               <button className="success" onClick={this.like}>
+                <img src={LikeSvg} alt="Like" className="like" />
                 Like
               </button>
             </div>
