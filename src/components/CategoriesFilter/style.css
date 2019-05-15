@@ -36,3 +36,9 @@
   background: #DCDCDC;
   box-shadow: inset 1px 1px 2px #9a9494, 1px 1px 1px 0px #333;
 }
+
+@media (max-width: 460px) {
+  .category-container {
+    display: none;
+  }
+}
