@@ -1,35 +1,35 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import axios from 'axios';
 
 import ProductCard from '../../components/ProductCard';
 import Header from '../../components/Header';
-import { addLike } from '../../actions/product';
+import CategoriesFilter from '../../components/CategoriesFilter';
+
+import {
+  addLike,
+  getProducts,
+  changeCategory
+} from '../../actions/product';
 
 import './style.css';
 
 class Products extends Component {
   state = {
-    loading: true,
-    products: [],
-    totalPages: 0,
-    checked: 0,
-    currentPage: 0,
-    itensOnPage: 0
+    checked: 0
   }
 
   componentDidMount() {
-    this.getProducts(0)
+    this.props.getProducts(0);
   }
 
   addLike = product => {
     this.props.addLike(product);
-    this.onRead()
+    this.onRead();
   }
 
   onRead = () => {
-    if (this.state.checked + 1 === this.state.itensOnPage) {
-      this.getProducts(this.state.currentPage)
+    if (this.state.checked + 1 === this.props.products.itensOnPage) {
+      this.props.getProducts(this.props.products.currentPage + 1, this.props.category);
     }
 
     this.setState({
@@ -37,38 +37,19 @@ class Products extends Component {
     });
   }
 
-  getProducts = async page => {
-    this.setState({
-      loading: true
-    });
-
-    try {
-      const { data } = await axios.get(`https://ycl641scac.execute-api.us-west-2.amazonaws.com/staging/products?page=${page}&hitsPerPage=20`);
-
-      this.setState({
-        loading: false,
-        products: data.hits,
-        totalPages: data.nbPages,
-        currentPage: page + 1,
-        itensOnPage: this.state.itensOnPage + data.hits.length
-      });
-    } catch (error) {
-      this.setState({
-        loading: false,
-        error: 'Error loading the products. Try again later.'
-      });
-    }
+  changeCategory = category => {
+    this.props.changeCategory(category);
+    this.props.getProducts(0, category === this.props.category ? null : category);
   }
 
   render() {
-    const { likes } = this.props
-    const { products, loading } = this.state
+    const { likes, category, products: { data, loading }} = this.props
 
     return (
       <div className='container'>
         <Header likes={likes} />
         <div className='cards-list'>
-          {products.map(product => (
+          {data.map(product => (
             <ProductCard
               key={product.productId}
               addLike={this.addLike}
@@ -82,6 +63,10 @@ class Products extends Component {
             </div>
           )}
         </div>
+        <CategoriesFilter
+          category={category}
+          onChange={this.changeCategory}
+        />
       </div>
     );
   }
@@ -89,6 +74,8 @@ class Products extends Component {
 
 const mapStateProps = ({ product }) => ({
   likes: product.likes,
+  products: product.products,
+  category: product.category
 });
 
-export default connect(mapStateProps, { addLike })(Products);
+export default connect(mapStateProps, { addLike, getProducts, changeCategory })(Products);

@@ -1,0 +1,38 @@
+.category-container {
+  background: #876ff0;
+  border-radius: 8px 8px 0 0;
+  bottom: 0;
+  left: 50%;
+  max-width: 660px;
+  padding: 10px 15px;
+  position: absolute;
+  transform: translateX(-50%);
+  width: 90%;
+}
+
+.category-container h6 {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 0 0 8px;
+}
+
+.category-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.category-actions button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+  font-size: 14px;
+  outline: none;
+  padding: 7px 15px;
+}
+
+.category-actions .active {
+  background: #DCDCDC;
+  box-shadow: inset 1px 1px 2px #9a9494, 1px 1px 1px 0px #333;
+}

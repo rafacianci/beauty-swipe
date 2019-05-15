@@ -1,4 +1,5 @@
 import React from 'react';
+import axios from 'axios';
 import { Provider } from 'react-redux';
 import { createStore, applyMiddleware } from 'redux';
 import thunk from 'redux-thunk';
@@ -12,6 +13,8 @@ const store = createStore(
   {},
   applyMiddleware(thunk),
 );
+
+axios.defaults.baseURL = 'https://ycl641scac.execute-api.us-west-2.amazonaws.com/staging';
 
 const App = () => (
   <Provider store={store}>

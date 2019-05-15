@@ -45,7 +45,7 @@ class Card extends PureComponent {
 
     return (
       <Draggable
-        position={{ x: liked === true ? 1400 : liked === false ? -1400 : 0, y: liked !== null ? 200 : 0}}
+        position={{ x: liked === true ? 2400 : liked === false ? -2400 : 0, y: liked !== null ? 1200 : 0}}
         onStop={this.handleStop}
       >
         <div className="draggable">
