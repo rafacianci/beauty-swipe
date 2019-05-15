@@ -1,30 +1,71 @@
 header {
+  align-items: center;
   background: #876ff0;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
   margin-bottom: 20px;
   padding: 10px 20px;
 }
 
-header .container {
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  max-width: 960px
-}
-
-h1,
-.like-container {
+header h1 {
   color: #FFF;
-  flex: 1;
-  margin: 0;
 }
 
-h1 {
-  text-align: left;
+.likes-container {
+  display: flex;
+}
+
+.like-container,
+.dislike-container {
+  align-items: center;
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+}
+
+.like-container span,
+.dislike-container span {
+  background-color: #FFF;
+  border-radius: 3px;
+  padding: 2px 6px;
+  z-index: 10;
+}
+
+.like-container .arrow,
+.dislike-container .arrow {
+  background-color: #FFF;
+  border-radius: 3px;
+  height: 13px;
+  left: 26px;
+  padding: 0;
+  position: absolute;
+  top: 7px;
+  transform: rotate(45deg);
+  width: 12px;
+  z-index: 1;
+}
+
+.like-container img,
+.dislike-container img{
+  fill: #FFF;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
 }
 
 .like-container {
-  padding: 10px 0;
-  text-align: right;
+  color: #27ae60;
+}
+
+.dislike-container {
+  color: #e74c3c;
+  margin-right: 15px;
+}
+
+.dislike-container img {
+  transform: rotateX(180deg);
 }
 
 @media (max-width: 460px) {

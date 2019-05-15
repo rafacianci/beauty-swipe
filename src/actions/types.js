@@ -1,4 +1,5 @@
 export const ADD_LIKE = 'add_like';
+export const ADD_DISLIKE = 'add_dislike';
 
 export const GET_PRODUCTS = 'get_products';
 export const GET_PRODUCTS_SUCCESS = 'get_products_success';

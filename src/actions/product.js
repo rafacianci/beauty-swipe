@@ -2,6 +2,7 @@ import axios from 'axios';
 
 import {
   ADD_LIKE,
+  ADD_DISLIKE,
   GET_PRODUCTS,
   GET_PRODUCTS_SUCCESS,
   GET_PRODUCTS_ERROR,
@@ -10,6 +11,11 @@ import {
 
 export const addLike = product => ({
   type: ADD_LIKE,
+  product
+});
+
+export const addDislike = product => ({
+  type: ADD_DISLIKE,
   product
 });
 

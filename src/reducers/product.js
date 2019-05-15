@@ -1,5 +1,6 @@
 import {
   ADD_LIKE,
+  ADD_DISLIKE,
   GET_PRODUCTS,
   GET_PRODUCTS_SUCCESS,
   GET_PRODUCTS_ERROR,
@@ -9,6 +10,8 @@ import {
 const initialState = {
   likes: 0,
   likedProducts: [],
+  dislikes: 0,
+  dislikedProducts: [],
   category: null,
   products: {
     loading: false,
@@ -27,6 +30,12 @@ export default (state = initialState, action) => {
         ...state,
         likes: state.likes + 1,
         likedProducts: [...state.likedProducts, action.product.productId]
+      };
+    case ADD_DISLIKE:
+      return {
+        ...state,
+        dislikes: state.dislikes + 1,
+        dislikedProducts: [...state.dislikedProducts, action.product.productId]
       };
     case GET_PRODUCTS:
       return {

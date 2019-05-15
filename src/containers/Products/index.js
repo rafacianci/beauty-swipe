@@ -7,6 +7,7 @@ import CategoriesFilter from '../../components/CategoriesFilter';
 
 import {
   addLike,
+  addDislike,
   getProducts,
   changeCategory
 } from '../../actions/product';
@@ -27,6 +28,11 @@ class Products extends Component {
     this.onRead();
   }
 
+  addDislike = product => {
+    this.props.addDislike(product);
+    this.onRead();
+  }
+
   onRead = () => {
     if (this.state.checked + 1 === this.props.products.itensOnPage) {
       this.props.getProducts(this.props.products.currentPage + 1, this.props.category);
@@ -43,17 +49,17 @@ class Products extends Component {
   }
 
   render() {
-    const { likes, category, products: { data, loading }} = this.props
+    const { likes, dislikes, category, products: { data, loading }} = this.props;
 
     return (
       <div className='container'>
-        <Header likes={likes} />
+        <Header likes={likes} dislikes={dislikes} />
         <div className='cards-list'>
           {data.map(product => (
             <ProductCard
               key={product.productId}
               addLike={this.addLike}
-              addDislike={this.onRead}
+              addDislike={this.addDislike}
               product={product}
             />
           ))}
@@ -74,8 +80,14 @@ class Products extends Component {
 
 const mapStateProps = ({ product }) => ({
   likes: product.likes,
+  dislikes: product.dislikes,
   products: product.products,
   category: product.category
 });
 
-export default connect(mapStateProps, { addLike, getProducts, changeCategory })(Products);
+export default connect(mapStateProps, {
+  addLike,
+  addDislike,
+  getProducts,
+  changeCategory
+})(Products);
