@@ -1,0 +1,1932 @@
+{
+    "nbHits": 25035,
+    "hits": [
+    {
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTY85r-KT1dz3vb9j3DX9_2MYqP8vLT89NA7qq14GASxodnTtcmkGvmlz4iIq7M-bxeCcFpEdxn_x1tGg4Ts4HV-dQr3sXG8YinTGHNlK0&usqp=CAE",
+        "rating": 4.32467532467532,
+        "subcategories": ["lipstick"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 50,
+            "sheer": 41,
+            "mattifying": 13,
+            "smooth": 2,
+            "creamy": 1,
+            "lightweight": 59,
+            "hydrating": 13,
+            "pigmented": 13,
+            "precise application": 1
+        },
+        "name": "The Only Lipstick 700 Naughty Nude",
+        "tags": ["drugstore"],
+        "colorSubfamilies": ["gray", "black", "sepia"],
+        "brand": "Rimmel",
+        "concernInfo":
+        {
+            "bottom_concerns": [
+            {
+                "facet": "not longlasting",
+                "percentage": 0.338855421686747,
+                "value": 0.16105071578920777,
+                "concern": "staying power"
+            },
+            {
+                "facet": "drying",
+                "percentage": 0.2663316582914573,
+                "value": 0.21441346135284595,
+                "concern": "hydration"
+            }],
+            "top_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 21.258912468172962,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.8608562691131498,
+                "value": 2.339127919132989,
+                "concern": "weight"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "sheer",
+                "value": 0.08362152217373087,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 21.258912468172962,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.8608562691131498,
+                "value": 2.339127919132989,
+                "concern": "weight"
+            },
+            {
+                "facet": "not longlasting",
+                "percentage": 0.338855421686747,
+                "value": 0.16105071578920777,
+                "concern": "staying power"
+            },
+            {
+                "facet": "drying",
+                "percentage": 0.2663316582914573,
+                "value": 0.21441346135284595,
+                "concern": "hydration"
+            },
+            {
+                "facet": "sheer",
+                "value": 0.08362152217373087,
+                "concern": "pigmentation"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 231,
+        "price": "0",
+        "colorFamilies": ["dark_nude-brown", "unconventional"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 231,
+            "hasSkinInfo": false,
+            "numVideos": "",
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-rimmel",
+        "id": "QUCb8pk=",
+        "categories": ["Lips"],
+        "productId": "QUCb8pk="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRVtaoIvr1oYobA8QDfPNHsojR2U-wfdMcPHc9B1F1BblvolUrmUnRt2HhoKKZnGAEmIYiUl2JM9a5pdpcgeHn26o-rBf7gEAi6Iw4622hCAJz9tZiOuJ47&usqp=CAE",
+        "rating": 4.59375,
+        "subcategories": ["concealer"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 3,
+            "demi-matte": 1,
+            "smooth": 1,
+            "pore minimizing": 15,
+            "dry skin": 1,
+            "lightweight": 1,
+            "combination skin": 2,
+            "blends well": 1,
+            "oily skin": 3
+        },
+        "name": "The Porefessional Primer Cosmetic Makeup Bag For Concealer",
+        "tags": ["luxury"],
+        "colorSubfamilies": ["fair"],
+        "brand": "Benefit",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "pore minimizing",
+                "percentage": 0.9940828402366864,
+                "value": 4.28107294080259,
+                "concern": "pore size"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "pore minimizing",
+                "percentage": 0.9940828402366864,
+                "value": 4.28107294080259,
+                "concern": "pore size"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 32,
+        "price": "0",
+        "colorFamilies": ["fair"],
+        "skinInfo":
+        {
+            "combination skin": null,
+            "mature skin": null,
+            "oily skin": "positive",
+            "dry skin": null,
+            "sensitive skin": null
+        },
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 32,
+            "hasSkinInfo": true,
+            "numVideos": 28.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-benefit",
+        "id": "jzEiAYM=",
+        "categories": ["Face"],
+        "productId": "jzEiAYM="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRU1mbOrXuY1Maxr2Td98IOnqufoAtsNL_uMm2mztCNrfCwHvVI9_USaTCehFtJNC_aHL2xAOQ&usqp=CAE",
+        "rating": 4.51856148491879,
+        "subcategories": ["lip balm"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 90,
+            "sheer": 9,
+            "mattifying": 6,
+            "smooth": 8,
+            "creamy": 3,
+            "lightweight": 53,
+            "hydrating": 28,
+            "pigmented": 3
+        },
+        "name": "Bronze Goddess Blooming Lip Balm",
+        "tags": ["luxury"],
+        "colorSubfamilies": ["cinnamon"],
+        "brand": "Lipstick Queen",
+        "concernInfo":
+        {
+            "bottom_concerns": [
+            {
+                "facet": "drying",
+                "percentage": 0.4533678756476684,
+                "value": 0.4731318689902134,
+                "concern": "hydration"
+            }],
+            "top_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 16.962614293616,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 1.0,
+                "value": 3.027170814590751,
+                "concern": "staying power"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.9652173913043478,
+                "value": 2.578457963350975,
+                "concern": "weight"
+            },
+            {
+                "facet": "smooth",
+                "percentage": 0.6666666666666666,
+                "value": 2.280776745400724,
+                "concern": "texture"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "sheer",
+                "value": 0.0,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 16.962614293616,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 1.0,
+                "value": 3.027170814590751,
+                "concern": "staying power"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.9652173913043478,
+                "value": 2.578457963350975,
+                "concern": "weight"
+            },
+            {
+                "facet": "smooth",
+                "percentage": 0.6666666666666666,
+                "value": 2.280776745400724,
+                "concern": "texture"
+            },
+            {
+                "facet": "drying",
+                "percentage": 0.4533678756476684,
+                "value": 0.4731318689902134,
+                "concern": "hydration"
+            },
+            {
+                "facet": "sheer",
+                "value": 0.0,
+                "concern": "pigmentation"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 862,
+        "price": "0",
+        "colorFamilies": ["dark_nude-brown"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 113.0,
+            "numReviews": 862,
+            "hasSkinInfo": false,
+            "numVideos": 3.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-lipstick_queen",
+        "id": "GfX6avI=",
+        "categories": ["Lips"],
+        "productId": "GfX6avI="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2M6oQcv2VYd0WhCShHASMRRV0ubB0Yotf48U9g9j_C_b6mX00ch0IT6oBeF_ez09tT9g5jeK1Rksst-ZNfEc-yHD5-L6awj_eHmTwo6KJxI7_snujRZz8zg&usqp=CAE",
+        "rating": 4.809,
+        "subcategories": ["sponges"],
+        "reviewFacetCounts":
+        {
+            "good quality": 209,
+            "packing product": 13,
+            "soft": 68,
+            "blending": 209
+        },
+        "name": "Brush Crush Diamond Sponge Pink",
+        "tags": ["cruelty-free", "drugstore"],
+        "brand": "Real Techniques",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "soft",
+                "percentage": 1.0,
+                "value": 4.906350188065373,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 1.0,
+                "value": 3.3996406921942066,
+                "concern": "quality"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "soft",
+                "percentage": 1.0,
+                "value": 4.906350188065373,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 1.0,
+                "value": 3.3996406921942066,
+                "concern": "quality"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 1000,
+        "price": "6",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 1000,
+            "hasSkinInfo": false,
+            "numVideos": 35.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-real_techniques",
+        "id": "6D3jKt0=",
+        "categories": ["Tools"],
+        "productId": "6D3jKt0="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1835560-main-hero.jpg",
+        "rating": 4.70703125,
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 756,
+            "good quality": 132,
+            "packing product": 5,
+            "not shedding": 142,
+            "densely packed": 46,
+            "soft": 159
+        },
+        "name": "Vanish Seamless Finish Foundation Brush",
+        "tags": ["cruelty-free", "luxury"],
+        "brand": "Hourglass",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.98,
+                "value": 6.815870239766439,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9967845659163987,
+                "value": 3.562370849818797,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9949494949494949,
+                "value": 3.1301987823708304,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9533799533799534,
+                "value": 2.337706902335477,
+                "concern": "quality"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.98,
+                "value": 6.815870239766439,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9967845659163987,
+                "value": 3.562370849818797,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9949494949494949,
+                "value": 3.1301987823708304,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9533799533799534,
+                "value": 2.337706902335477,
+                "concern": "quality"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 1536,
+        "price": "54",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 1536,
+            "hasSkinInfo": false,
+            "numVideos": 100.0,
+            "hasIngredients": false,
+            "hasPriceInfo": true
+        },
+        "brandId": "brand-hourglass",
+        "id": "FF7wJ84=",
+        "categories": ["Tools"],
+        "productId": "FF7wJ84="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTl_Dwp2N9EbHlTxEyMnpbXJpOlHWi7jdthzHZg7rQbqodrGy4KElqxlmaSzpz4bX0yxnq-JzCKYw&usqp=CAE",
+        "rating": 4.67965981573352,
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "not shedding": 368,
+            "good quality": 144,
+            "packing product": 1,
+            "blending": 233,
+            "densely packed": 33,
+            "soft": 125
+        },
+        "name": "Studio Powder Brush",
+        "tags": ["drugstore"],
+        "brand": "e.l.f.",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 1.0,
+                "value": 7.095254930080679,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9710610932475884,
+                "value": 3.155983009062073,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9370629370629371,
+                "value": 2.2507154408092958,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.8712121212121212,
+                "value": 2.165373231965806,
+                "concern": "shedding"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 1.0,
+                "value": 7.095254930080679,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9710610932475884,
+                "value": 3.155983009062073,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9370629370629371,
+                "value": 2.2507154408092958,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.8712121212121212,
+                "value": 2.165373231965806,
+                "concern": "shedding"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 1411,
+        "price": "4.49",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 1411,
+            "hasSkinInfo": false,
+            "numVideos": 148.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-elf",
+        "id": "S1b6ci0=",
+        "categories": ["Tools"],
+        "productId": "S1b6ci0="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRbdaBPcZ7fFReAFrapVVTG-Sy7QimCNfHfbLDhXjrFXHWMrlB92MMPpujV7-fiPkUO9rFJvInE&usqp=CAE",
+        "rating": 4.64506172839506,
+        "subcategories": ["brush sets"],
+        "reviewFacetCounts":
+        {
+            "blending": 551,
+            "good quality": 583,
+            "packing product": 2,
+            "not shedding": 351,
+            "densely packed": 12,
+            "soft": 71
+        },
+        "name": "Sculpt And Blend Brush 10-Piece Brush Set",
+        "tags": ["drugstore"],
+        "brand": "BH Cosmetics",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 1.0,
+                "value": 7.524753436247373,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.8444444444444444,
+                "value": 2.633594940206082,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9411764705882353,
+                "value": 2.4046910626955564,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9191919191919192,
+                "value": 1.9178344772956357,
+                "concern": "quality"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 1.0,
+                "value": 7.524753436247373,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.8444444444444444,
+                "value": 2.633594940206082,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9411764705882353,
+                "value": 2.4046910626955564,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9191919191919192,
+                "value": 1.9178344772956357,
+                "concern": "quality"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 2268,
+        "price": "33",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 2268,
+            "hasSkinInfo": false,
+            "numVideos": 417.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-bh",
+        "id": "p8wwKn0=",
+        "categories": ["Tools"],
+        "productId": "p8wwKn0="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWKRq413UQbN_3MBE1zV7dC8uOXWpxovaVkUSzMr7yb9PBQ8OyW02XChQ474d2znzQZpCBaviI&usqp=CAE",
+        "rating": 4.72949002217295,
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 286,
+            "good quality": 94,
+            "packing product": 1,
+            "not shedding": 167,
+            "densely packed": 17,
+            "soft": 77
+        },
+        "name": "Expert Face Brush",
+        "tags": ["cruelty-free", "drugstore"],
+        "brand": "Real Techniques",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.96,
+                "value": 6.086316626992196,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.954983922829582,
+                "value": 3.019959895847946,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9747474747474747,
+                "value": 2.899155939589221,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.958041958041958,
+                "value": 2.407496680153368,
+                "concern": "quality"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.96,
+                "value": 6.086316626992196,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.954983922829582,
+                "value": 3.019959895847946,
+                "concern": "softness"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9747474747474747,
+                "value": 2.899155939589221,
+                "concern": "shedding"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.958041958041958,
+                "value": 2.407496680153368,
+                "concern": "quality"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 902,
+        "price": "6",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 902,
+            "hasSkinInfo": false,
+            "numVideos": 897.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-real_techniques",
+        "id": "q3Wtubk=",
+        "categories": ["Tools"],
+        "productId": "q3Wtubk="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRREOvT07RygF4JDTuIYo6568UzcFfA1P2DlZOKwrLFJyLTFNoX43sBUF8HR9LjoGOLK43DFh4&usqp=CAE",
+        "rating": 4.2441209406495,
+        "subcategories": ["lip gloss"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 179,
+            "sheer": 36,
+            "mattifying": 14,
+            "non sticky": 251,
+            "smooth": 6,
+            "creamy": 3,
+            "lightweight": 303,
+            "hydrating": 30,
+            "pigmented": 21
+        },
+        "name": "CORALista Ultra Plush Sheer Coral Lip Gloss",
+        "tags": ["luxury"],
+        "colorSubfamilies": ["fire", "rust"],
+        "brand": "Benefit",
+        "concernInfo":
+        {
+            "bottom_concerns": [
+            {
+                "facet": "rough",
+                "percentage": 0.2716049382716049,
+                "value": 1.8633594107986176,
+                "concern": "texture"
+            }],
+            "top_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 17.960418575200226,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.918918918918919,
+                "value": 2.7189742451542545,
+                "concern": "weight"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.8262626262626263,
+                "value": 1.5794417133099876,
+                "concern": "staying power"
+            },
+            {
+                "facet": "non sticky",
+                "percentage": 0.7996820349761526,
+                "value": 1.2248383694058904,
+                "concern": "stickiness"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "sheer",
+                "value": 0.024000621289034685,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [
+            {
+                "facet": "creamy",
+                "percentage": 0.47058823529411764,
+                "value": 1.9473600237459032,
+                "concern": "consistency"
+            },
+            {
+                "facet": "hydrating",
+                "percentage": 0.4794520547945205,
+                "value": 0.8747550856659697,
+                "concern": "hydration"
+            }],
+            "all_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 1.0,
+                "value": 17.960418575200226,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.918918918918919,
+                "value": 2.7189742451542545,
+                "concern": "weight"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.8262626262626263,
+                "value": 1.5794417133099876,
+                "concern": "staying power"
+            },
+            {
+                "facet": "non sticky",
+                "percentage": 0.7996820349761526,
+                "value": 1.2248383694058904,
+                "concern": "stickiness"
+            },
+            {
+                "facet": "rough",
+                "percentage": 0.2716049382716049,
+                "value": 1.8633594107986176,
+                "concern": "texture"
+            },
+            {
+                "facet": "creamy",
+                "percentage": 0.47058823529411764,
+                "value": 1.9473600237459032,
+                "concern": "consistency"
+            },
+            {
+                "facet": "hydrating",
+                "percentage": 0.4794520547945205,
+                "value": 0.8747550856659697,
+                "concern": "hydration"
+            },
+            {
+                "facet": "sheer",
+                "value": 0.024000621289034685,
+                "concern": "pigmentation"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 893,
+        "price": "0",
+        "colorFamilies": ["red_orange"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 139.0,
+            "numReviews": 893,
+            "hasSkinInfo": false,
+            "numVideos": "",
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-benefit",
+        "id": "l7luWJY=",
+        "categories": ["Lips"],
+        "productId": "l7luWJY="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1901909-main-hero.jpg",
+        "rating": 4.68446601941748,
+        "properties": ["natural bristles"],
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 127,
+            "good quality": 107,
+            "packing product": 3,
+            "not shedding": 48,
+            "densely packed": 12,
+            "soft": 88
+        },
+        "name": "Soft Kabuki Brush",
+        "tags": ["cruelty-free", "luxury"],
+        "brand": "BECCA",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.94,
+                "value": 5.758790819162579,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9871382636655949,
+                "value": 3.2633975685003462,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9836829836829837,
+                "value": 2.633334163810287,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9090909090909091,
+                "value": 2.343984464486759,
+                "concern": "shedding"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.94,
+                "value": 5.758790819162579,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9871382636655949,
+                "value": 3.2633975685003462,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9836829836829837,
+                "value": 2.633334163810287,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9090909090909091,
+                "value": 2.343984464486759,
+                "concern": "shedding"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 824,
+        "price": "32",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 824,
+            "hasSkinInfo": false,
+            "numVideos": 10.0,
+            "hasIngredients": false,
+            "hasPriceInfo": true
+        },
+        "brandId": "brand-becca",
+        "id": "Xd3Y9hs=",
+        "categories": ["Tools"],
+        "productId": "Xd3Y9hs="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s2027019-main-hero.jpg",
+        "rating": 4.76744186046512,
+        "properties": ["tinted"],
+        "subcategories": ["eyebrows"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 2,
+            "precise application": 19
+        },
+        "name": "70 Pomade Brow Brush",
+        "tags": ["cruelty-free", "luxury", "vegan"],
+        "colorSubfamilies": ["black_hair", "gray_hair"],
+        "brand": "Kat Von D",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 0.9504950495049505,
+                "value": 3.4713279455582495,
+                "concern": "precision"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 0.9504950495049505,
+                "value": 3.4713279455582495,
+                "concern": "precision"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 86,
+        "price": "0.0",
+        "colorFamilies": ["black", "gray"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 86,
+            "hasSkinInfo": false,
+            "numVideos": "",
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-kat_von_d",
+        "id": "jRY7vak=",
+        "categories": ["Eyes"],
+        "productId": "jRY7vak="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1822212-main-zoom.jpg",
+        "rating": 4.77173913043478,
+        "properties": ["synthetic bristles"],
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 160,
+            "good quality": 174,
+            "packing product": 4,
+            "not shedding": 121,
+            "densely packed": 10,
+            "soft": 144
+        },
+        "name": "Lockit Setting Powder Brush",
+        "tags": ["cruelty-free", "luxury"],
+        "brand": "Kat Von D",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.72,
+                "value": 4.195887838947046,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 1.0,
+                "value": 3.7312746921262523,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9976689976689976,
+                "value": 2.9771408338207315,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9873737373737373,
+                "value": 2.959425833489922,
+                "concern": "shedding"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.72,
+                "value": 4.195887838947046,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 1.0,
+                "value": 3.7312746921262523,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9976689976689976,
+                "value": 2.9771408338207315,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9873737373737373,
+                "value": 2.959425833489922,
+                "concern": "shedding"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 1564,
+        "price": "0",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 1564,
+            "hasSkinInfo": false,
+            "numVideos": 70.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-kat_von_d",
+        "id": "TuVD-E0=",
+        "categories": ["Tools"],
+        "productId": "TuVD-E0="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1822246-main-Lhero.jpg",
+        "rating": 4.59638554216868,
+        "properties": ["synthetic bristles"],
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 789,
+            "good quality": 181,
+            "packing product": 4,
+            "not shedding": 93,
+            "densely packed": 32,
+            "soft": 143
+        },
+        "name": "Lockit Edge Concealer Brush",
+        "tags": ["luxury", "vegan", "cruelty-free"],
+        "brand": "Kat Von D",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.92,
+                "value": 5.7214386703963145,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9678456591639871,
+                "value": 3.138447755222624,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9743589743589743,
+                "value": 2.5462166765276666,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9217171717171717,
+                "value": 2.409452710555794,
+                "concern": "shedding"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.92,
+                "value": 5.7214386703963145,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9678456591639871,
+                "value": 3.138447755222624,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9743589743589743,
+                "value": 2.5462166765276666,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9217171717171717,
+                "value": 2.409452710555794,
+                "concern": "shedding"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 1494,
+        "price": "0",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 1494,
+            "hasSkinInfo": false,
+            "numVideos": 46.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-kat_von_d",
+        "id": "hVsS-xw=",
+        "categories": ["Tools"],
+        "productId": "hVsS-xw="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS8KPZmIdfV3kmBLl-Sh78N7KuaA1cbFs5MfEQ6i0PvD3CrIZVpH7r9Kq8n2v2xfqOZI4Un9gfu&usqp=CAE",
+        "rating": 4.6,
+        "subcategories": ["highlighter"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 30,
+            "pigmented": 9,
+            "blends well": 4,
+            "lightweight": 2,
+            "water resistant": 5
+        },
+        "name": "BROWnies Eyebrow Gel",
+        "tags": ["cruelty-free"],
+        "colorSubfamilies": ["peach_blush", "pink_blush", "pale pink"],
+        "brand": "Beauty Bakerie",
+        "concernInfo":
+        {
+            "bottom_concerns": [
+            {
+                "facet": "patchy",
+                "percentage": 0.1711229946524064,
+                "value": -0.25068963681618445,
+                "concern": "blendability"
+            }],
+            "top_concerns": [
+            {
+                "facet": "water resistant",
+                "percentage": 1.0,
+                "value": 10.641494182750971,
+                "concern": "water resistance"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.9459459459459459,
+                "value": 2.13348025144622,
+                "concern": "staying power"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "pigmented",
+                "value": 1.0,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "water resistant",
+                "percentage": 1.0,
+                "value": 10.641494182750971,
+                "concern": "water resistance"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.9459459459459459,
+                "value": 2.13348025144622,
+                "concern": "staying power"
+            },
+            {
+                "facet": "patchy",
+                "percentage": 0.1711229946524064,
+                "value": -0.25068963681618445,
+                "concern": "blendability"
+            },
+            {
+                "facet": "pigmented",
+                "value": 1.0,
+                "concern": "pigmentation"
+            }]
+        },
+        "variations": [
+        {
+            "name": "Brown",
+            "url": "https://www.cultbeauty.co.uk/beauty-bakerie-brownies.html",
+            "price": 18.6880311001935,
+            "variationImageUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/360x483/slots-img/bbk/bbk002_brownies_brown_2_1560x1960-qq4q9.jpg",
+            "color_subfamilies": [],
+            "swatchUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/82/slots-img/bbk/bbk002_brown_brownies_brown_400x400-ru8fc.jpg",
+            "color_families": []
+        },
+        {
+            "name": "Dark Brown",
+            "url": "https://www.cultbeauty.co.uk/beauty-bakerie-brownies.html",
+            "price": 18.6880311001935,
+            "variationImageUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/360x483/slots-img/bbk/bbk002_brownies_darkbrown_2_1560x1960-75jjk.jpg",
+            "color_subfamilies": [],
+            "swatchUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/82/slots-img/bbk/bbk002_dkbrwn_brownies_darkbrown_400x400-wjaws.jpg",
+            "color_families": []
+        },
+        {
+            "name": "Blonde",
+            "url": "https://www.cultbeauty.co.uk/beauty-bakerie-brownies.html",
+            "price": 18.6880311001935,
+            "variationImageUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/360x483/slots-img/bbk/bbk002_brownies_blonde_2_1560x1960-0qq0m.jpg",
+            "color_subfamilies": ["peach_blush"],
+            "swatchUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/82/slots-img/bbk/bbk002_blnde_brownies_blonde_400x400-ym9f3.jpg",
+            "color_families": ["peach"]
+        },
+        {
+            "name": "Taupe",
+            "url": "https://www.cultbeauty.co.uk/beauty-bakerie-brownies.html",
+            "price": 18.6880311001935,
+            "variationImageUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/360x483/slots-img/bbk/bbk002_brownies_taupe_2_1560x1960-rrk3d.jpg",
+            "color_subfamilies": ["pink_blush", "pale pink"],
+            "swatchUrl": "https://d10qoa1dy3vloz.cloudfront.net/resized/82/slots-img/bbk/bbk002_taupe_brownies_taupe_400x400-etu76.jpg",
+            "color_families": ["pink_lips", "pink_skin"]
+        }],
+        "__typename": "product",
+        "numReviews": 85,
+        "price": "19",
+        "colorFamilies": ["pink_lips", "pink_skin", "peach"],
+        "hasData":
+        {
+            "numVariations": 4,
+            "numSwatches": 100.0,
+            "numReviews": 85,
+            "hasSkinInfo": false,
+            "numVideos": 16.0,
+            "hasIngredients": false,
+            "hasPriceInfo": true
+        },
+        "brandId": "brand-beauty_bakerie",
+        "id": "XpZH55U=",
+        "categories": ["Cheeks"],
+        "productId": "XpZH55U="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1425529-main-hero.jpg",
+        "rating": 4.26865671641791,
+        "subcategories": ["false lashes tools"],
+        "reviewFacetCounts":
+        {
+            "good quality": 2,
+            "precise application": 11
+        },
+        "name": "Bulls Eye Lash Applicator",
+        "tags": ["luxury", "cruelty-free"],
+        "brand": "Sephora Collection",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [],
+            "neutral_concerns": [],
+            "middle_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 1.0,
+                "value": 3.3220625622596667,
+                "concern": "precision"
+            }],
+            "all_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 1.0,
+                "value": 3.3220625622596667,
+                "concern": "precision"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 268,
+        "price": "15",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 268,
+            "hasSkinInfo": false,
+            "numVideos": 2.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-sephora",
+        "id": "LzbWOHo=",
+        "categories": ["Tools"],
+        "productId": "LzbWOHo="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s929513-main-hero.jpg",
+        "rating": 4.30984042553191,
+        "properties": ["scented"],
+        "subcategories": ["blush", "lip stain"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 189,
+            "sheer": 57,
+            "water resistant": 36,
+            "smooth": 11,
+            "creamy": 12,
+            "lightweight": 21,
+            "pigmented": 74,
+            "blends well": 187
+        },
+        "name": "Beach Tint Color for Cheeks and Lips",
+        "tags": ["cruelty-free", "luxury"],
+        "colorSubfamilies": ["peach_blush", "mauve_blush", "mauve", "salmon", "pale pink", "rose", "blush", "pink_blush"],
+        "brand": "BECCA",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "water resistant",
+                "percentage": 1.0,
+                "value": 12.552212555693316,
+                "concern": "water resistance"
+            },
+            {
+                "facet": "creamy",
+                "percentage": 0.7,
+                "value": 2.590019307830702,
+                "concern": "consistency"
+            },
+            {
+                "facet": "smooth",
+                "percentage": 0.6727272727272727,
+                "value": 2.518558287869516,
+                "concern": "texture"
+            },
+            {
+                "facet": "blends well",
+                "percentage": 0.9042145593869731,
+                "value": 1.7914042223953768,
+                "concern": "blendability"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.8252631578947368,
+                "value": 1.5897063227609474,
+                "concern": "staying power"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.6632302405498282,
+                "value": 1.565271608521064,
+                "concern": "weight"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "sheer",
+                "value": 0.22459192572483722,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "water resistant",
+                "percentage": 1.0,
+                "value": 12.552212555693316,
+                "concern": "water resistance"
+            },
+            {
+                "facet": "creamy",
+                "percentage": 0.7,
+                "value": 2.590019307830702,
+                "concern": "consistency"
+            },
+            {
+                "facet": "smooth",
+                "percentage": 0.6727272727272727,
+                "value": 2.518558287869516,
+                "concern": "texture"
+            },
+            {
+                "facet": "blends well",
+                "percentage": 0.9042145593869731,
+                "value": 1.7914042223953768,
+                "concern": "blendability"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.8252631578947368,
+                "value": 1.5897063227609474,
+                "concern": "staying power"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.6632302405498282,
+                "value": 1.565271608521064,
+                "concern": "weight"
+            },
+            {
+                "facet": "sheer",
+                "value": 0.22459192572483722,
+                "concern": "pigmentation"
+            }]
+        },
+        "variations": [
+        {
+            "name": "LYCHEE",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_102850483.jpg",
+            "color_subfamilies": ["mauve_blush", "pale pink", "pink_blush", "rose"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/19/_102961779.jpg",
+            "color_families": ["pink_lips", "pink_skin", "mauve"]
+        },
+        {
+            "name": "RASPBERRY",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102850485.jpg",
+            "color_subfamilies": ["mauve_blush", "pale pink", "mauve", "pink_blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/18/_102961778.jpg",
+            "color_families": ["pink_lips", "pink_skin", "mauve", "adventurous_skin"]
+        },
+        {
+            "name": "GRAPEFRUIT",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_102850446.jpg",
+            "color_subfamilies": ["pale pink", "peach_blush", "pink_blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/5/_102961785.jpg",
+            "color_families": ["pink_lips", "pink_skin", "peach"]
+        },
+        {
+            "name": "GUAVA",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_102850443.jpg",
+            "color_subfamilies": ["pale pink", "pink_blush", "peach_blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/2/_102961782.jpg",
+            "color_families": ["pink_lips", "pink_skin", "peach"]
+        },
+        {
+            "name": "PAPAYA",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102850439.jpg",
+            "color_subfamilies": ["pale pink", "pink_blush", "peach_blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/6/_102961786.jpg",
+            "color_families": ["pink_lips", "pink_skin", "peach"]
+        },
+        {
+            "name": "WATERMELON",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102850432.jpg",
+            "color_subfamilies": ["pale pink", "pink_blush", "peach_blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/0/_102961780.jpg",
+            "color_families": ["pink_lips", "pink_skin", "peach"]
+        },
+        {
+            "name": "DRAGONFRUIT",
+            "url": "http://shop.nordstrom.com/s/becca-beach-tint-water-resistant-color-for-cheeks-and-lips/4938131",
+            "price": 25.0,
+            "variationImageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_102850484.jpg",
+            "color_subfamilies": ["pale pink", "pink_blush", "salmon", "peach_blush", "blush"],
+            "swatchUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/SwatchMedium/1/_102961781.jpg",
+            "color_families": ["pink_lips", "pink_skin", "peach"]
+        }],
+        "__typename": "product",
+        "numReviews": 752,
+        "price": "25",
+        "colorFamilies": ["mauve", "adventurous_skin", "pink_lips", "pink_skin", "peach"],
+        "hasData":
+        {
+            "numVariations": 7,
+            "numSwatches": 102.0,
+            "numReviews": 752,
+            "hasSkinInfo": false,
+            "numVideos": 79.0,
+            "hasIngredients": false,
+            "hasPriceInfo": true
+        },
+        "brandId": "brand-becca",
+        "id": "JZ1PCDU=",
+        "categories": ["Cheeks", "Lips"],
+        "productId": "JZ1PCDU="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1566595-main-hero.jpg",
+        "rating": 4.74596182085169,
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "blending": 148,
+            "good quality": 27,
+            "packing product": 1,
+            "not shedding": 90,
+            "densely packed": 14,
+            "soft": 46
+        },
+        "name": "Classic Multitasker Brush - #45",
+        "tags": ["luxury"],
+        "brand": "Sephora Collection",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.84,
+                "value": 5.275721508524617,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9823232323232324,
+                "value": 2.942667960169861,
+                "concern": "shedding"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9453376205787781,
+                "value": 2.9403950759965576,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.8414918414918415,
+                "value": 1.8516207401299742,
+                "concern": "quality"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.84,
+                "value": 5.275721508524617,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.9823232323232324,
+                "value": 2.942667960169861,
+                "concern": "shedding"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.9453376205787781,
+                "value": 2.9403950759965576,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.8414918414918415,
+                "value": 1.8516207401299742,
+                "concern": "quality"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 681,
+        "price": "0",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 681,
+            "hasSkinInfo": false,
+            "numVideos": 60.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-sephora",
+        "id": "YWbsc98=",
+        "categories": ["Tools"],
+        "productId": "YWbsc98="
+    },
+    {
+        "imageUrl": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_11196321.jpg",
+        "rating": 4.7319587628866,
+        "properties": ["brush applicator"],
+        "subcategories": ["eyeliner"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 2,
+            "not smudging": 1,
+            "precise application": 44
+        },
+        "name": "210 Precise Eye Liner",
+        "tags": ["luxury"],
+        "colorSubfamilies": ["black", "cocoa_eyes", "gray"],
+        "brand": "M.A.C",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 1.0,
+                "value": 3.241010268381228,
+                "concern": "precision"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "precise application",
+                "percentage": 1.0,
+                "value": 3.241010268381228,
+                "concern": "precision"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 194,
+        "price": "20",
+        "colorFamilies": ["smokey_black", "neutrals_brown"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 194,
+            "hasSkinInfo": false,
+            "numVideos": 142.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-mac",
+        "id": "9KngxJY=",
+        "categories": ["Eyes"],
+        "productId": "9KngxJY="
+    },
+    {
+        "imageUrl": "https://sephora.com/productimages/sku/s1566595-main-hero.jpg",
+        "rating": 4.63667232597623,
+        "subcategories": ["face brushes"],
+        "reviewFacetCounts":
+        {
+            "good quality": 43,
+            "densely packed": 13,
+            "not shedding": 49,
+            "soft": 37,
+            "blending": 127
+        },
+        "name": "Classic Mini Multitasker Brush #45.5",
+        "tags": ["luxury"],
+        "brand": "Sephora Collection",
+        "concernInfo":
+        {
+            "bottom_concerns": [],
+            "top_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.9,
+                "value": 5.652420919777273,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.977491961414791,
+                "value": 3.1909519911526414,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9067599067599068,
+                "value": 2.0943829607645217,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.803030303030303,
+                "value": 1.8321197244649525,
+                "concern": "shedding"
+            }],
+            "neutral_concerns": [],
+            "middle_concerns": [],
+            "all_concerns": [
+            {
+                "facet": "densely packed",
+                "percentage": 0.9,
+                "value": 5.652420919777273,
+                "concern": "bristles distribution"
+            },
+            {
+                "facet": "soft",
+                "percentage": 0.977491961414791,
+                "value": 3.1909519911526414,
+                "concern": "softness"
+            },
+            {
+                "facet": "good quality",
+                "percentage": 0.9067599067599068,
+                "value": 2.0943829607645217,
+                "concern": "quality"
+            },
+            {
+                "facet": "not shedding",
+                "percentage": 0.803030303030303,
+                "value": 1.8321197244649525,
+                "concern": "shedding"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 589,
+        "price": "14.0",
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 589,
+            "hasSkinInfo": false,
+            "numVideos": 112.0,
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-sephora",
+        "id": "wJW-YiE=",
+        "categories": ["Tools"],
+        "productId": "wJW-YiE="
+    },
+    {
+        "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTnBFp6saQ_RPYrJSNjxFB5VUpn5BxSu9i8AtTadg1b1tBWCimeiTAkQvR-dc3h_yMcWTyG5WYQ7AZG22eqf_y2xpsEtIptoNllnE2Fc5Q4yH98Wk4KBnLsQ&usqp=CAE",
+        "rating": 4.23529411764706,
+        "subcategories": ["lipstick"],
+        "reviewFacetCounts":
+        {
+            "longlasting": 122,
+            "sheer": 82,
+            "mattifying": 40,
+            "smooth": 8,
+            "creamy": 9,
+            "lightweight": 179,
+            "hydrating": 24,
+            "pigmented": 19,
+            "precise application": 2
+        },
+        "name": "The Only Lipstick Make Up Lips Lipsticks",
+        "tags": ["drugstore"],
+        "colorSubfamilies": ["black", "sepia"],
+        "brand": "Rimmel",
+        "concernInfo":
+        {
+            "bottom_concerns": [
+            {
+                "facet": "drying",
+                "percentage": 0.2884422110552764,
+                "value": 0.26287008849736915,
+                "concern": "hydration"
+            },
+            {
+                "facet": "rough",
+                "percentage": 0.3855721393034826,
+                "value": 1.3555500571716064,
+                "concern": "texture"
+            }],
+            "top_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 0.8333333333333334,
+                "value": 16.296839572760536,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.7889908256880734,
+                "value": 2.0884916069217034,
+                "concern": "weight"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.6174698795180723,
+                "value": 0.8429515731172426,
+                "concern": "staying power"
+            }],
+            "neutral_concerns": [
+            {
+                "facet": "sheer",
+                "value": 0.0,
+                "concern": "pigmentation"
+            }],
+            "middle_concerns": [
+            {
+                "facet": "creamy",
+                "percentage": 0.4463840399002494,
+                "value": 1.4404450708229515,
+                "concern": "consistency"
+            }],
+            "all_concerns": [
+            {
+                "facet": "mattifying",
+                "percentage": 0.8333333333333334,
+                "value": 16.296839572760536,
+                "concern": "mattifying"
+            },
+            {
+                "facet": "lightweight",
+                "percentage": 0.7889908256880734,
+                "value": 2.0884916069217034,
+                "concern": "weight"
+            },
+            {
+                "facet": "longlasting",
+                "percentage": 0.6174698795180723,
+                "value": 0.8429515731172426,
+                "concern": "staying power"
+            },
+            {
+                "facet": "drying",
+                "percentage": 0.2884422110552764,
+                "value": 0.26287008849736915,
+                "concern": "hydration"
+            },
+            {
+                "facet": "rough",
+                "percentage": 0.3855721393034826,
+                "value": 1.3555500571716064,
+                "concern": "texture"
+            },
+            {
+                "facet": "creamy",
+                "percentage": 0.4463840399002494,
+                "value": 1.4404450708229515,
+                "concern": "consistency"
+            },
+            {
+                "facet": "sheer",
+                "value": 0.0,
+                "concern": "pigmentation"
+            }]
+        },
+        "__typename": "product",
+        "numReviews": 561,
+        "price": "0",
+        "colorFamilies": ["dark_nude-brown", "unconventional"],
+        "hasData":
+        {
+            "numVariations": 0,
+            "numSwatches": 100.0,
+            "numReviews": 561,
+            "hasSkinInfo": false,
+            "numVideos": "",
+            "hasIngredients": false,
+            "hasPriceInfo": false
+        },
+        "brandId": "brand-rimmel",
+        "id": "pwfW3UU=",
+        "categories": ["Lips"],
+        "productId": "pwfW3UU="
+    }],
+    "requestArgs":
+    {
+        "subcategory": "",
+        "tags": [],
+        "brand": null,
+        "skinTypes": [],
+        "maxPrice": 10000,
+        "properties": [],
+        "formFactors": [],
+        "hitsPerPage": 20,
+        "query": null,
+        "minPrice": 0,
+        "facets": [],
+        "categories": [],
+        "page": 0
+    },
+    "page": 0,
+    "nbPages": 1251
+}

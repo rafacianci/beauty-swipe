@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:3030",
+  "testFiles": "../../src/**/**_spec.js",
+  "viewportWidth": 1300,
+  "viewportHeight": 860
+}
